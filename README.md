@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 - 🔭 I’m currently working on a React project utililizing the Spotify API called "Jammming"
 - 🌱 I’m currently improving my Ruby on Rails and React skills.
@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: jshizuki@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I surf, skateboard and believe you are what you eat.
+- ⚡ Fun fact: I swim, surf, skateboard and believe you are what you eat.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshizuki&layout=compact&exclude_repo=my-new-theme)
