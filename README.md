@@ -1,4 +1,4 @@
-### Hi, it's Joyce here - a developer based in Tokyo, Japan with a background in English teaching and Fashion Design.
+### Hi, it's Joyce here - a developer based in Tokyo/ Hong Kong with a background in English teaching and Fashion Design.
 
 Currently, my focus has been on Ruby, Rails, Vanilla JavaScript and React.
 
